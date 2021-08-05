@@ -50,19 +50,9 @@ Programming based on Series
 
 • Programming based on Recursion vs Iteration
 
-• Programming based on Collection frameworks
-
 • Programming based on Data structures
 
 • Programming based on Complicated Data structures statements
-
-• Programming based on Object-Oriented thinking process
-
-• Programming based on Class Design
-
-• Programming based on Polymorphism technique
-
-• Programming based on Inheritance and reusability
 
 • Programming based on Generic Programming strategy
 
